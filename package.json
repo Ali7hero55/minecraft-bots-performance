@@ -1,0 +1,25 @@
+{
+  "name": "minecraft-bots-performance",
+  "version": "1.0.0",
+  "description": "Minecraft server performance testing with Mineflayer bots",
+  "main": "minecraft_bots.js",
+  "scripts": {
+    "start": "node minecraft_bots.js",
+    "dev": "node minecraft_bots.js"
+  },
+  "keywords": [
+    "minecraft",
+    "mineflayer",
+    "bots",
+    "performance",
+    "testing"
+  ],
+  "author": "RJ_79",
+  "license": "MIT",
+  "dependencies": {
+    "mineflayer": "^4.14.0"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
